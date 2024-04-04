@@ -1,0 +1,17 @@
+
+Teacher & Student area
+http://localhost/obls
+
+Teachers Login Access:
+UserName:  kalam
+Password:  123
+
+Student Login Access: 
+Username: tipu
+pasword: 123
+
+Only for admin
+http://localhost/obls/admin
+
+UserName: admin
+password: 123

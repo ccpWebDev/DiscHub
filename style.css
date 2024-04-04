@@ -1,0 +1,15 @@
+body{
+    background:#070F2B;
+    height: 800px;
+}
+.container{
+    margin-top: -30px;
+    padding-top: 5px;
+    height: 700px;
+    background: white;
+    
+}
+.exc{
+    position: absolute;
+    top: 500px;
+}
